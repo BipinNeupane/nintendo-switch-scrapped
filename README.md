@@ -2,6 +2,8 @@
 
 This project aims to scrape the best-selling Nintendo Switch games from the Wikipedia page [List of best-selling Nintendo Switch video games](https://en.wikipedia.org/wiki/List_of_best-selling_Nintendo_Switch_video_games) using Python, Beautiful Soup, and Pandas. The scraped data will be stored in an Excel sheet.
 
+![Data don't lie gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JiNWU4ZGNkNjUyNWRkZTk1M2ZmNjQ3MmJhN2Q1MjU3ZWM3YTY2NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+
 ## Prerequisites
 
 To run this project, you need to have the following installed:
@@ -33,7 +35,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
+This project is licensed ungder the MIT License. You can find more details in the [LICENSE](LICENSE) file.
 
 ## Acknowledgments
 
