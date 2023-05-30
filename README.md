@@ -15,7 +15,7 @@ To run this project, you need to have the following installed:
 ## Installation
 
 1. Clone this repository to your local machine:
-git clone https://github.com/your-username/nintendo-switch-scrapped.git
+git clone https://github.com/BipinNeupane/nintendo-switch-scrapped.git
 2. Change into the project directory:
 ```cd nintendo-switch-scrapped```
 3. Install the required Python packages using pip:
